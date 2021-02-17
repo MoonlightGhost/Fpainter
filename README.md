@@ -1,2 +1,2 @@
-#This is Fpainter,
+# This is Fpainter,
  the prototype of one of my ideas: function painter on haskell with CodeWorld
