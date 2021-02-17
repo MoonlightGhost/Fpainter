@@ -1,4 +1,4 @@
-name:                code
+name:                fpainter
 version:             0.1.0.0
 
 dependencies:
@@ -21,7 +21,7 @@ executables:
     - -with-rtsopts=-N
     - -O2
     dependencies:
-    - code
+    - fpainter
 
 tests:
   code-test:
@@ -32,4 +32,4 @@ tests:
     - -rtsopts
     - -with-rtsopts=-N
     dependencies:
-    - code
+    - fpainter
